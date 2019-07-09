@@ -1,0 +1,2 @@
+This projects is a simple data logger that takes the information from a csv file within the server and adds it to webpage via the route 
+'/logs'. Using localhost:3000, log requests to the .csv file by refreshing the page and with the URL route'/', then view the logs by adding '/logs' to the URL. 
